@@ -1,5 +1,22 @@
 # Change Log
 
+## 4.3.4
+
+### Patch Changes
+
+- 9cf41fae: chore: remove custom typings for @babel/helper-module-imports
+- 860b8d21: Ensure that the Proxy for this.#exports forwards unknown properties to the underlying Object instance.
+- 28f3f93d: Add the tagSource property for processors, indicating the package and name of the imported processor.
+- 2d3a741f: fix: handle .cjs & .mjs extensions
+- Updated dependencies [b27f328f]
+- Updated dependencies [28f3f93d]
+- Updated dependencies [71a5b351]
+- Updated dependencies [cf1d6611]
+  - @linaria/shaker@4.2.8
+  - @linaria/tags@4.3.1
+  - @linaria/utils@4.3.1
+  - @linaria/core@4.2.6
+
 ## 4.3.3
 
 ### Patch Changes

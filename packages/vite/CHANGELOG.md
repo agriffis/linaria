@@ -1,5 +1,17 @@
 # @linaria/vite
 
+## 4.2.6
+
+### Patch Changes
+
+- Updated dependencies [9cf41fae]
+- Updated dependencies [860b8d21]
+- Updated dependencies [28f3f93d]
+- Updated dependencies [71a5b351]
+- Updated dependencies [2d3a741f]
+  - @linaria/babel-preset@4.3.4
+  - @linaria/utils@4.3.1
+
 ## 4.2.5
 
 ### Patch Changes
